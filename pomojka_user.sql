@@ -1,0 +1,3 @@
+INSERT INTO pomojka.user (id, degree, firstName, lastName, scienceRank, chair_id, direction_id) VALUES (1, 'MASTER', 'firstNameA', 'lastNameA', 'PROFESOR', 1, 1);
+INSERT INTO pomojka.user (id, degree, firstName, lastName, scienceRank, chair_id, direction_id) VALUES (2, 'MASTER', 'secondNameB', 'secondNameB', 'DOCENT', 2, 1);
+INSERT INTO pomojka.user (id, degree, firstName, lastName, scienceRank, chair_id, direction_id) VALUES (3, 'MASTER', 'firstNameC', 'secondNameC', 'PROFESOR', 1, 1);
